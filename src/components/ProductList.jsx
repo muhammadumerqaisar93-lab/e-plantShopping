@@ -59,3 +59,4 @@ const styles = {
   button: { color: "white", border: "none", padding: "10px", borderRadius: 5, cursor: "pointer" },
   cartBtn: { marginTop: 20, padding: "10px 20px", fontSize: 16, borderRadius: 5, cursor: "pointer", backgroundColor: "#007bff", color: "white" },
 };
+console
