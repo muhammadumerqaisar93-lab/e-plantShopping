@@ -3,7 +3,7 @@ import { useDispatch } from "react-redux";
 import { addItem } from "../redux/CartSlice";
 
 const plantsArray = [
-  { name: "Aloe Vera", image: "    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVo6rhRaF-a9LbnJufDZfhzIFpkHavkTExKQ&s.jpg", description: "Skin-friendly", cost: 10, category: "Indoor" },
+  { name: "Aloe Vera", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVo6rhRaF-a9LbnJufDZfhzIFpkHavkTExKQ&s.jpg", description: "Skin-friendly", cost: 10, category: "Indoor" },
   { name: "Snake Plant", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTej6KSkKsnSQ2tCMcrxEueA5b4Zm7xmDFIVg&s", description: "Air purifier", cost: 15, category: "Indoor" },
   { name: "Peace Lily", image: "https://cdn.mos.cms.futurecdn.net/qYNPupRnspGWPF4886Z7hB-1600-80.jpg", description: "Blooms white flowers", cost: 12, category: "Indoor" },
   { name: "Cactus", image: "https://baghbani.pk/wp-content/uploads/2024/05/bunny-ear.jpg", description: "Low maintenance", cost: 8, category: "Outdoor" },
