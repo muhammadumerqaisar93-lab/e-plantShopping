@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { Provider } from "react-redux";
 import store from "./redux/store";
-import LandingPage from "./components/LandingPage";
 import ProductList from "./components/ProductList";
 import CartItems from "./components/CartItems";
 import Header from "./components/Header";
